@@ -23,8 +23,6 @@ The objective is to demonstrate how **social media data can be leveraged to anal
 - Apply **topic modeling** to uncover discussion patterns
 - Visualize insights through **data visualizations**
 
----
-
 ## Dataset
 
 Tweets were collected using the **Twitter API via Tweepy** based on keywords related to mental health and mindfulness.
@@ -46,7 +44,6 @@ Each tweet includes:
 - Timestamp
 - Tweet metadata
 
----
 
 ## Tech Stack
 
@@ -118,8 +115,6 @@ Example topics discovered:
 - Emotional well-being
 - Self-care routines
 
----
-
 ## Visualizations
 
 The project includes several visualizations such as:
@@ -136,7 +131,6 @@ Example outputs may include:
 
 *(Neet to add screenshots of charts after intitial readme commit)*
 
----
 
 ## Key Insights
 
@@ -145,7 +139,6 @@ Example outputs may include:
 - Keywords like **mindfulness, meditation, anxiety, and self-care** appear frequently in discussions.
 - Topic modeling reveals recurring themes related to **emotional health, personal well-being, and mental health awareness.**
 
----
 
 ## Project Structure
 Sentiment-Analysis-Mental-Health-Twitter/
@@ -154,8 +147,6 @@ Sentiment-Analysis-Mental-Health-Twitter/
 ├── README.md
 └── data/
 
-
----
 
 ## Applications
 
@@ -167,7 +158,6 @@ This type of analysis can be useful for:
 - Wellness industry insights
 - Policy research on mental health awareness
 
----
 
 ## Future Improvements
 
@@ -179,7 +169,6 @@ Potential extensions for this project include:
 - Building an **interactive dashboard using Tableau or Power BI**
 - Detecting **mental health risk signals using machine learning models**
 
----
 
 ## Author
 
@@ -188,7 +177,6 @@ Potential extensions for this project include:
 MS in Data Analytics  
 Aspiring **Data Scientist / Data Analyst**
 
----
 
 ## Skills Demonstrated
 
