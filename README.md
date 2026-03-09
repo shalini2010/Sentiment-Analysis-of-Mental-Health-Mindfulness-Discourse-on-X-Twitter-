@@ -13,7 +13,6 @@ This project performs **Natural Language Processing (NLP) and Sentiment Analysis
 
 The objective is to demonstrate how **social media data can be leveraged to analyze public perception and emotional trends around mental health awareness.**
 
-
 ## Project Objectives
 
 - Collect tweets related to **mental health and mindfulness topics**
@@ -69,7 +68,6 @@ Each tweet includes:
 - Sentiment analysis (VADER)
 - Topic modeling (LDA)
 
----
 
 ## Project Workflow
 
