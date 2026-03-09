@@ -138,14 +138,6 @@ Example outputs may include:
 - Topic modeling reveals recurring themes related to **emotional health, personal well-being, and mental health awareness.**
 
 
-## Project Structure
-Sentiment-Analysis-Mental-Health-Twitter/
-│
-├── Tweets_analysis.ipynb
-├── README.md
-└── data/
-
-
 ## Applications
 
 This type of analysis can be useful for:
